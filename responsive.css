@@ -1,0 +1,21 @@
+p {
+    font-size: 120%;
+    color: dimgray;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.center {
+    display: block;
+    margin: auto;
+}
+
+img {
+    margin: auto;
+}
